@@ -141,6 +141,6 @@ form .register-details {
 
 /* When the button is clicked, Change the text color when the button is clicked. */
 .sign-up-btn:active {
-  color: var(--purple);
+  color: var(--purple) !important;
 }
 
