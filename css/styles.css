@@ -136,6 +136,7 @@ form .date-of-birth-details .controls {
 }
 
 .date-of-birth-details .controls .input-box {
+  background-color: var(--white);
   width: 200px;
   height: 40px;
   padding-left: 10px;
